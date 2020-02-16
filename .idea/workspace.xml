@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c9e5d45-7965-4e04-a4c5-94c940f94955" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XgLhWtiNdwFX6RN2dqMI77Qcqs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.memory_example">
+    <configuration name="LateralInteraction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DFT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LateralInteraction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MemoryTrace" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DFT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MemoryTrace.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="competing_input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DFT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/competing_input.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="memory_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DFT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/memory_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="snippet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DFT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/snippet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.memory_example" />
+        <item itemvalue="Python.snippet" />
+        <item itemvalue="Python.MemoryTrace" />
+        <item itemvalue="Python.competing_input" />
+        <item itemvalue="Python.LateralInteraction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c9e5d45-7965-4e04-a4c5-94c940f94955" name="Default Changelist" comment="" />
+      <created>1581462910750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581462910750</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="584" y="214" width="800" height="677" key="#Updates" timestamp="1581756553854">
+      <screen x="69" y="27" width="3771" height="1053" />
+    </state>
+    <state x="584" y="214" width="800" height="677" key="#Updates/69.27.3771.1053@69.27.3771.1053" timestamp="1581756553854" />
+    <state x="677" y="280" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581756555660">
+      <screen x="69" y="27" width="3771" height="1053" />
+    </state>
+    <state x="677" y="280" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/69.27.3771.1053@69.27.3771.1053" timestamp="1581756555660" />
+    <state x="878" y="372" width="484" height="517" key="#xdebugger.evaluate" timestamp="1581818811427">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state x="878" y="372" width="549" height="708" key="#xdebugger.evaluate/69.27.1851.1053@69.27.1851.1053" timestamp="1581818811427" />
+    <state x="676" y="538" width="484" height="517" key="#xdebugger.evaluate/69.27.3771.1053@69.27.3771.1053" timestamp="1581758314847" />
+    <state width="1828" height="343" key="GridCell.Tab.0.bottom" timestamp="1581819175346">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state width="1828" height="343" key="GridCell.Tab.0.bottom/69.27.1851.1053@69.27.1851.1053" timestamp="1581819175346" />
+    <state width="1828" height="269" key="GridCell.Tab.0.bottom/69.27.3771.1053@69.27.3771.1053" timestamp="1581758545073" />
+    <state width="1828" height="343" key="GridCell.Tab.0.center" timestamp="1581819175345">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state width="1828" height="343" key="GridCell.Tab.0.center/69.27.1851.1053@69.27.1851.1053" timestamp="1581819175345" />
+    <state width="1828" height="269" key="GridCell.Tab.0.center/69.27.3771.1053@69.27.3771.1053" timestamp="1581758545072" />
+    <state width="1828" height="343" key="GridCell.Tab.0.left" timestamp="1581819175344">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state width="1828" height="343" key="GridCell.Tab.0.left/69.27.1851.1053@69.27.1851.1053" timestamp="1581819175344" />
+    <state width="1828" height="269" key="GridCell.Tab.0.left/69.27.3771.1053@69.27.3771.1053" timestamp="1581758545072" />
+    <state width="1828" height="343" key="GridCell.Tab.0.right" timestamp="1581819175345">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state width="1828" height="343" key="GridCell.Tab.0.right/69.27.1851.1053@69.27.1851.1053" timestamp="1581819175345" />
+    <state width="1828" height="269" key="GridCell.Tab.0.right/69.27.3771.1053@69.27.3771.1053" timestamp="1581758545072" />
+    <state width="1828" height="343" key="GridCell.Tab.1.bottom" timestamp="1581819175347">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state width="1828" height="343" key="GridCell.Tab.1.bottom/69.27.1851.1053@69.27.1851.1053" timestamp="1581819175347" />
+    <state width="1828" height="343" key="GridCell.Tab.1.bottom/69.27.3771.1053@69.27.3771.1053" timestamp="1581758320950" />
+    <state width="1828" height="343" key="GridCell.Tab.1.center" timestamp="1581819175346">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state width="1828" height="343" key="GridCell.Tab.1.center/69.27.1851.1053@69.27.1851.1053" timestamp="1581819175346" />
+    <state width="1828" height="343" key="GridCell.Tab.1.center/69.27.3771.1053@69.27.3771.1053" timestamp="1581758320949" />
+    <state width="1828" height="343" key="GridCell.Tab.1.left" timestamp="1581819175346">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state width="1828" height="343" key="GridCell.Tab.1.left/69.27.1851.1053@69.27.1851.1053" timestamp="1581819175346" />
+    <state width="1828" height="343" key="GridCell.Tab.1.left/69.27.3771.1053@69.27.3771.1053" timestamp="1581758320949" />
+    <state width="1828" height="343" key="GridCell.Tab.1.right" timestamp="1581819175347">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state width="1828" height="343" key="GridCell.Tab.1.right/69.27.1851.1053@69.27.1851.1053" timestamp="1581819175347" />
+    <state width="1828" height="343" key="GridCell.Tab.1.right/69.27.3771.1053@69.27.3771.1053" timestamp="1581758320949" />
+    <state x="650" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1581813628002">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state x="650" y="380" key="com.intellij.ide.util.TipDialog/69.27.1851.1053@69.27.1851.1053" timestamp="1581813628002" />
+    <state x="1267" y="257" width="1370" height="678" key="search.everywhere.popup" timestamp="1581652688998">
+      <screen x="69" y="27" width="3771" height="1053" />
+    </state>
+    <state x="657" y="257" width="672" height="678" key="search.everywhere.popup/69.27.1851.1053@69.27.1851.1053" timestamp="1581638546506" />
+    <state x="1267" y="257" width="1370" height="678" key="search.everywhere.popup/69.27.3771.1053@69.27.3771.1053" timestamp="1581652688998" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/competing_input.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/competing_input.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/competing_input.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/NeuralField.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/NeuralField.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LateralInteraction.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LateralInteraction.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LateralInteraction.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LateralInteraction.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/competing_input.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/MemoryTrace.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
